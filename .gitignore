@@ -1,0 +1,4 @@
+/jspm_packages
+/jspm.config.js
+/node_modules/*
+!/node_modules/test-registry
